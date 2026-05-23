@@ -1,0 +1,16 @@
+# Unreal Engine temporary/generated folders
+.vs/
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Code compilation files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.pidb
+*.user
+*.userosscache
+*.sln.docstates
